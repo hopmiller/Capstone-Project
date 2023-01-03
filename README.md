@@ -12,7 +12,7 @@ Spotify has a large number of reviews on the app stores. These reviews include f
 
 Spotify was created in 2006 in Stockholm, Sweden by Daniel Ek and Martin Lorentzon. The idea was to create a legal way for users to stream music. Today, Spotify has generated over $9 billion in revenue and has over 180 million subscribers.
 
-*Source: ![BusinessofApps](https://www.businessofapps.com/data/spotify-statistics/)
+Source: [BusinessofApps](https://www.businessofapps.com/data/spotify-statistics/)
 
 An app as popular as Spotify will have hundreds of reviews per day. The reviews give unbiased insight into how customers like the platform, app, and updates. By using NLP, the company can quickly identify common pain points of customers, or things that the customers are enjoying.
 
