@@ -73,8 +73,8 @@ jupyter notebook
 
 * Multinomial NB Model- Ratings:
     
-    *Select **Multinomial NB Model- ratings.ipynb** and press "Run" to start executing the scripts
+    Select **Multinomial NB Model- ratings.ipynb** and press "Run" to start executing the scripts
 
 * Multinomial NB Model- Sentiment:
     
-    *Select **Multinomial NB Model- sentiment.ipynb** and press "Run" to start executing the scripts
+    Select **Multinomial NB Model- sentiment.ipynb** and press "Run" to start executing the scripts
