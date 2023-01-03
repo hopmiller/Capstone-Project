@@ -47,8 +47,8 @@ The models for rating and sentiment categorization are each in their own noteboo
 Presentation- 
 
 Final Notebooks- 
-[Ratings](https://github.com/hopmiller/Capstone-Project/blob/66406ae9f4a72b0e7b89fc4f5adba04c62860c98/Multinomial%20NB%20Model-%20ratings.ipynb)
-[Sentiment](https://github.com/hopmiller/Capstone-Project/blob/66406ae9f4a72b0e7b89fc4f5adba04c62860c98/Multinomial%20NB%20Model-%20sentiment.ipynb)
+⋅⋅⋅[Ratings](https://github.com/hopmiller/Capstone-Project/blob/66406ae9f4a72b0e7b89fc4f5adba04c62860c98/Multinomial%20NB%20Model-%20ratings.ipynb)
+⋅⋅⋅[Sentiment](https://github.com/hopmiller/Capstone-Project/blob/66406ae9f4a72b0e7b89fc4f5adba04c62860c98/Multinomial%20NB%20Model-%20sentiment.ipynb)
 
 ### Reproduction Instructions 
 
@@ -57,15 +57,19 @@ Final Notebooks-
 git clone https://github.com/hopmiller/Capstone-Project.git
 
 
+
+
 2. Then, from inside the repo directory, run 
 
 jupyter notebook
 
 
+
+
 3. To run the models:
 
 * Multinomial NB Model- Ratings:
-** Select **Multinomial NB Model- ratings.ipynb** and press "Run" to start executing the scripts
+⋅⋅⋅Select **Multinomial NB Model- ratings.ipynb** and press "Run" to start executing the scripts
 
 * Multinomial NB Model- Sentiment:
-** Select **Multinomial NB Model- sentiment.ipynb** and press "Run" to start executing the scripts
+⋅⋅⋅Select **Multinomial NB Model- sentiment.ipynb** and press "Run" to start executing the scripts
