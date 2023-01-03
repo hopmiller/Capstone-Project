@@ -28,9 +28,44 @@ The first model created classified what the review was rated based on the review
 
 To give Spotify further results, the reviews for positive and negative sentiment were analyzed using Bag of Words. Frequently occurring bi-grams for each sentiment type were pulled. The analysis was performed on the data from the Sentiment Analysis Model because that model had a higher accuracy. 
 
+
 <!-- Conclusion -->
 ## Conclusion
 
 I would recommend that Spotify use this model when analyzing customer reviews. The sentiment analysis model performed with the highest accuracy and therefore would be the top choice. The ratings classification model had an above average accuracy score as well, so I would not deter from its use either.
 
 Spotify can use the information from the Bag of Words results to see what is commonly being talked about in positive and negative reviews. It allows a snapshot of the information given by users.
+
+
+<!-- Repository Navigation -->
+## Repository Navigation
+
+The models for rating and sentiment categorization are each in their own notebooks. The results to the word frequency counts are also in their own notebooks. All necessary documents and notebooks can be found on the homepage of the repository. Inside of the .gitignore folder, you will find any exploratory notebooks that did not deem any meaningful results or were the product of duplication. 
+
+### Final Notebook and Presentation
+
+Presentation- 
+
+Final Notebooks- 
+[Ratings](https://github.com/hopmiller/Capstone-Project/blob/66406ae9f4a72b0e7b89fc4f5adba04c62860c98/Multinomial%20NB%20Model-%20ratings.ipynb)
+[Sentiment](https://github.com/hopmiller/Capstone-Project/blob/66406ae9f4a72b0e7b89fc4f5adba04c62860c98/Multinomial%20NB%20Model-%20sentiment.ipynb)
+
+### Reproduction Instructions 
+
+1. From the command line, clone this repo 
+
+git clone https://github.com/hopmiller/Capstone-Project.git
+
+
+2. Then, from inside the repo directory, run 
+
+jupyter notebook
+
+
+3. To run the models:
+
+* Multinomial NB Model- Ratings:
+** Select **Multinomial NB Model- ratings.ipynb** and press "Run" to start executing the scripts
+
+* Multinomial NB Model- Sentiment:
+** Select **Multinomial NB Model- sentiment.ipynb** and press "Run" to start executing the scripts
