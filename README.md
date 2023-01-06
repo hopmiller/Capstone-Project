@@ -48,6 +48,10 @@ The models for rating and sentiment categorization are each in their own noteboo
 
 Presentation- 
 
+
+[Final Presentation](https://github.com/hopmiller/Capstone-Project/blob/main/Final%20Presentation.pptx)
+
+
 Final Notebooks- 
 
 
