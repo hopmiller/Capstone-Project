@@ -20,6 +20,8 @@ An app as popular as Spotify will have hundreds of reviews per day. The reviews 
 
 The dataset used was collected from scraping the reviews off the of the Google Play Store. It includes over 61,000 customers reviews. Each entry includes a timestamp. the review, the rating given by the customer and replies. For this research, the review and rating were prioritized. It should be noted that the rating was done on a scale of 1 to 5, 5 being the highest. 
 
+[Spotify App Reviews](https://www.kaggle.com/datasets/mfaaris/spotify-app-reviews-2022)
+
 
 <!-- Modeling and Evaluation -->
 ## Modeling and Evaluation
